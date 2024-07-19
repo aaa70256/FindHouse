@@ -21,4 +21,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+page link:[https://find-house-web.netlify.app/#/](https://find-house-web.netlify.app/#/)
